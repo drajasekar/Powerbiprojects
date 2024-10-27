@@ -18,6 +18,53 @@ Quarterly Trends: Analyzed quarterly revenue and transaction volume trends, incl
 Outcome: Enhanced understanding of credit card transaction dynamics, enabling targeted strategies for revenue growth and customer segmentation.
 
 
+Airbnb Data Analysis Dashboard
+
+Objective:
+To analyze Airbnb listing data to uncover trends in pricing, booking, and customer review patterns across different neighborhoods and room types. The insights from this analysis help stakeholders make informed decisions regarding property investments, pricing strategies, and seasonal demand management.
+
+Data Collection and Preparation: Gathered and cleaned data on Airbnb listings, including attributes such as neighborhood, room type (e.g., entire home, private room, shared room), pricing, review count, and host information.
+
+Dashboard Design:
+Key Metrics Overview:
+Displayed the average number of reviews per month and the total number of reviews, giving a snapshot of overall demand and customer engagement on the platform.
+
+Showcased total host count and neighborhood count to provide context on the scale of listings analyzed.
+
+Neighborhood and Room Type Analysis:
+
+Total Bookings by Neighborhood Group: A bar chart showing the number of bookings across different neighborhoods (e.g., Manhattan, Brooklyn, Queens), which helps identify the most popular locations.
+
+Average Price by Neighborhood: Visualized the average pricing per neighborhood, highlighting the differences in pricing trends across areas like Tribeca, Riverdale, and Fort Wadsworth.
+
+Average Price by Neighborhood Group and Room Type: Provided detailed insights into pricing based on neighborhood and room type (e.g., entire home/apartment, private room, shared room), helping hosts and investors understand competitive pricing strategies in specific areas.
+
+Seasonal Review and Booking Trends:
+
+Total Reviews by Year: A historical view of review counts per year, useful for identifying changes in customer engagement over time.
+
+Total Reviews by Month: A monthly review trend to observe seasonal peaks, helping hosts to adjust their pricing and availability strategies during high-demand months.
+
+Top Hosts by Total Reviews: Listed the hosts with the most reviews, shedding light on popular hosts who may offer best practices in customer satisfaction.
+
+Filter Capabilities:
+
+Integrated filters for neighborhood groups and room types to enable tailored insights, allowing stakeholders to focus on specific market segments or property types.
+
+Outcome:
+
+Popular Neighborhoods and Pricing Insights: The analysis showed that Manhattan had the highest demand, with room prices significantly influenced by both neighborhood and room type. For instance, entire homes in Manhattan and Brooklyn were found to be priced at a premium compared to private rooms in other areas.
+
+Seasonal Demand Patterns: Identified peaks in reviews during specific months, such as June and July, suggesting that Airbnb hosts could capitalize on higher demand through optimized pricing and availability during these periods.
+
+Actionable Insights for Stakeholders:
+
+For Hosts: Provided insights to maximize occupancy and profitability by adjusting prices based on neighborhood demand and seasonal trends. Hosts could use the data to determine when to list properties at premium prices or offer discounts.
+
+For Investors: Offered clarity on which neighborhoods and room types yield the best returns, guiding investment decisions toward high-demand areas with favorable pricing structures.
+
+Revenue Optimization: The dashboard enabled strategic planning around occupancy rates, targeted marketing efforts for high-demand neighborhoods, and pricing adjustments to boost revenue.
+
 World Happiness Report Analysis
 
 Objective:
